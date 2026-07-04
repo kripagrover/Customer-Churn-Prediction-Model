@@ -1,7 +1,3 @@
-<img width="1470" height="831" alt="Screenshot 2026-07-04 at 11 41 44 PM" src="https://github.com/user-attachments/assets/3e72795a-6e73-40f6-b66a-6b26dfaaf820" />
-<img width="1470" height="833" alt="Screenshot 2026-07-04 at 11 41 33 PM" src="https://github.com/user-attachments/assets/874021a7-26a2-4cf0-9fc6-9dcc495017b6" />
-<img width="1470" height="831" alt="Screenshot 2026-07-04 at 11 41 25 PM" src="https://github.com/user-attachments/assets/7b78dfd5-34fc-4a6a-9c6e-e51ea0cf8ddb" />
-<img width="1470" height="832" alt="Screenshot 2026-07-04 at 11 41 17 PM" src="https://github.com/user-attachments/assets/c4c1c43b-6b08-4f9f-94a8-508d0ad7c66f" />
 # Customer Churn Prediction Model
 
 A machine learning project that predicts whether a telecom customer will churn (leave the service) using the IBM Telco Customer Churn dataset. The pipeline covers exploratory data analysis, preprocessing, handling class imbalance, model comparison, and deployment-ready model serialization.
@@ -214,3 +210,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - Dataset: IBM Telco Customer Churn (via Kaggle)
 - Originally developed in Google Colab
 
+<img width="1470" height="831" alt="Screenshot 2026-07-04 at 11 41 44 PM" src="https://github.com/user-attachments/assets/3e72795a-6e73-40f6-b66a-6b26dfaaf820" />
+<img width="1470" height="833" alt="Screenshot 2026-07-04 at 11 41 33 PM" src="https://github.com/user-attachments/assets/874021a7-26a2-4cf0-9fc6-9dcc495017b6" />
+<img width="1470" height="831" alt="Screenshot 2026-07-04 at 11 41 25 PM" src="https://github.com/user-attachments/assets/7b78dfd5-34fc-4a6a-9c6e-e51ea0cf8ddb" />
+<img width="1470" height="832" alt="Screenshot 2026-07-04 at 11 41 17 PM" src="https://github.com/user-attachments/assets/c4c1c43b-6b08-4f9f-94a8-508d0ad7c66f" />
