@@ -214,3 +214,6 @@ This project is open source and available under the [MIT License](LICENSE).
 <img width="1470" height="832" alt="Screenshot 2026-07-04 at 11 41 17 PM" src="https://github.com/user-attachments/assets/c4c1c43b-6b08-4f9f-94a8-508d0ad7c66f" />
 <img width="1470" height="831" alt="Screenshot 2026-07-04 at 11 41 25 PM" src="https://github.com/user-attachments/assets/7b78dfd5-34fc-4a6a-9c6e-e51ea0cf8ddb" />
 <img width="1470" height="833" alt="Screenshot 2026-07-04 at 11 41 33 PM" src="https://github.com/user-attachments/assets/874021a7-26a2-4cf0-9fc6-9dcc495017b6" />
+<img width="1470" height="831" alt="Screenshot 2026-07-04 at 11 45 50 PM" src="https://github.com/user-attachments/assets/8eb5e0df-5780-4bae-a0b6-3211fcda5dbe" />
+<img width="1468" height="825" alt="Screenshot 2026-07-04 at 11 46 07 PM" src="https://github.com/user-attachments/assets/3427bc51-49b7-45fe-9b7e-366826ffdf41" />
+<img width="1468" height="829" alt="Screenshot 2026-07-04 at 11 46 50 PM" src="https://github.com/user-attachments/assets/f2fa5c0b-bc88-458c-beda-90eccfdca74d" />
