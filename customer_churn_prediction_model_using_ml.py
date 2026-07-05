@@ -25,7 +25,7 @@ import pickle
 """**2. Data Loading and Understanding**"""
 
 #load the csv data to a pandas dataframe
-df= pd.read_csv("/content/WA_Fn-UseC_-Telco-Customer-Churn.xls")
+df= pd.read_csv("WA_Fn-UseC_-Telco-Customer-Churn.xls")
 
 df.shape
 

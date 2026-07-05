@@ -24,8 +24,12 @@ def load_artifacts() -> tuple[Any, list[str], dict[str, Any]]:
     with open(ENCODERS_PATH, "rb") as file:
         encoders = pickle.load(file)
 
-    model = model_data["model"]
-    feature_names: list[str] = model_data["features_names"]
+    if isinstance(model_data, dict):
+        model = model_data["model"]
+        feature_names = model_data["features_names"]
+    else:
+        model = model_data
+        feature_names = list(model.feature_names_in_)
     return model, feature_names, encoders
 
 
